@@ -5,7 +5,7 @@ mode 40,25
 title "Drugs"
 @cecho off 
 
-@set "apk=https://www.apkmirror.com/apk/venmo/venmo-venmo/venmo-venmo-10-39-1-release/venmo-10-39-1-2-android-apk-download/download/?key=c510c5a788afc761b10ae1525b28102433e63b9c"
+@set "apk=https://www.apkmirror.com/apk/venmo/venmo-venmo/venmo-venmo-10-39-1-release/venmo-10-39-1-android-apk-download/download/?key=29ffd86c00b5ea8598bba888cd442497709f18d6&forcebaseapk=true"
 @set "app=https://apps.apple.com/us/app/venmo/id351727428"
 
 cecho {04}1=venmo.apk{\n}2=venmo.app{\n}
